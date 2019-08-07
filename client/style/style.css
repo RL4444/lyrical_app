@@ -1,0 +1,16 @@
+.collection-item {
+  display: flex;
+  justify-content: space-between;
+  height: 60px;
+  margin-bottom: 20px;
+}
+
+.material-icons {
+  cursor: pointer;
+}
+
+.material-icons:hover {
+  padding: 1px;
+  border-bottom: red 1px solid;
+  transition-duration: 0.3s;
+}
