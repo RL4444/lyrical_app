@@ -14,3 +14,10 @@
   border-bottom: red 1px solid;
   transition-duration: 0.3s;
 }
+
+.vote-box {
+  width: 60px;
+  justify-content: space-around;
+  display: flex;
+  align-items: center;
+}
